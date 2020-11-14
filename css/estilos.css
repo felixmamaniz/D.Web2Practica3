@@ -44,7 +44,6 @@
     width: 100%;
 }
 
-/**** Media Query *****/
 @media screen and(max-width: 768px)
 {
     .post .thumb
