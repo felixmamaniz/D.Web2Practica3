@@ -1,0 +1,31 @@
+/**** HEADER ***/
+.navbar
+{
+    margin-bottom: 0;
+}
+
+.jumbotron
+{
+   background: #428bca;
+   color: #fff;
+   padding: 20px 0;
+}
+
+/*.jumbotron .titulo-blog  class="titulo-blog" agregar a h1 de jumbotrom
+/*{
+    font-size: 80px;
+}*/
+
+/******** POST ********/
+.main
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.post
+{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #999;
+}
